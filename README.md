@@ -1,6 +1,6 @@
  ##
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vítor+M+Alves;Idade:+27+anos;Sou+de+São+Paulo-BR;Estudante+de+Desenvolvimento+Web+pela+Trybe;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vítor+M+Alves;Idade:+27+anos;Moro+em+São+Paulo-BR;Estudante+de+Desenvolvimento+Web+pela+Trybe;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
  ##
 
