@@ -75,5 +75,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/viitormalves/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profthiago" /></a>
 <a href="https://www.facebook.com/vitor.m.alves.58" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="thiagobraddock"  /></a>
-<a href="https://www.linkedin.com/in/viitormalves/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
+<a href="https://www.instagram.com/viitormalves/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
 </p>
