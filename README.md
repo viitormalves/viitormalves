@@ -11,7 +11,7 @@ Sou Bacharel em Publicidade e Propaganda(Comunicação). De 2016 até 2022 traba
 
 - Brasileiro;
 - 27 anos;
-- São Paulo/SP - Brasil && São José dos Campos
+- São Paulo/SP && São José dos Campos/SP
  
  ##
 
