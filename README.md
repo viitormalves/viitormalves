@@ -6,6 +6,8 @@
 Sou o Vítor, Desenvolvedor Web Full-Stack e Analista de Marketing.
 
 Sou Bacharel em Publicidade e Propaganda(Comunicação). De 2016 até 2022 trabalhei no segmento de Marketing e Publicidade e em julho de 2022 iniciei uma transição para o segmento de mercado Tech. Atualmente estudo Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
+
+Eu acredito muito no trabalho em grupo e na boa comunicação. Hoje como desenvolvedor agrego as minhas experiências anteriores para potencializar o trabalho em conjunto.
  
  **Informação:**
 
