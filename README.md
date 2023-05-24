@@ -12,7 +12,7 @@ Eu acredito muito no trabalho em grupo e na boa comunicação. Hoje como desenvo
  **Informação:**
 
 - Brasileiro;
-- 27 anos;
+- 28 anos;
 - São Paulo/SP && São José dos Campos/SP
  
  ##
