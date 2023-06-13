@@ -38,7 +38,14 @@ Eu acredito muito no trabalho em grupo e na boa comunicação. Hoje como desenvo
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%231572B6?style=flat-square&logo=nodejs)
 ![Mysql](https://img.shields.io/badge/-Mysql-%231572B6?style=flat-square&logo=mysql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize)
-![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+ 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465)
+![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
