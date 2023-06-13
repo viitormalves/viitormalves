@@ -33,6 +33,7 @@ Eu acredito muito no trabalho em grupo e na boa comunicação. Hoje como desenvo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%231572B6?style=flat-square&logo=nodejs)
 ![Mysql](https://img.shields.io/badge/-Mysql-%231572B6?style=flat-square&logo=mysql)
