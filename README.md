@@ -7,7 +7,6 @@ Olá! Eu sou o Vítor Magalhães Alves, Desenvolvedor Web Full-Stack pela escola
 
 Trabalho na área de Marketing desde 2016, onde me desenvolvi profissionalmente gerindo projetos de patrocínio, ações digitais, gestão de dados, participação em eventos, gestão de budget, scrum, criação de arte, relacionamento com terceirizadas e clientes, negociação de contra-partidas entre outras atividades.
 
-Em 2021 iniciei os meus estudos de programação participando de algumas Lives, Imersões online, assim em 2022 ingressei na Escola Trybe com o objetivo de migrar para área de tecnologia. Tenho curiosidade e vontade de aprender, por isso diariamente estudo e pratico habilidades de programação, buscando uma oportunidade como desenvolvedor Front-end, Back end, Dados ou áreas relacionadas.
  
  **Informação:**
 
